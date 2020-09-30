@@ -9,6 +9,5 @@ autopep8 = "*"
 
 [packages]
 django = "*"
-
-[requires]
-python_version = "3.8"
+numpy = "*"
+pillow = "*"
